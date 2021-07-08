@@ -1,10 +1,13 @@
 {
-  "name": "dtd-cli",
-  "version": "1.0.0",
+  "name": "leos-cli",
+  "version": "1.0.2",
   "description": "cli",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "leo": "bin/leo.js"
   },
   "author": "",
   "license": "ISC",
