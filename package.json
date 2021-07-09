@@ -4,7 +4,7 @@
   "description": "cli",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "vp": "npm version patch && npm public"
   },
   "bin": {
     "leo": "bin/leo.js"
