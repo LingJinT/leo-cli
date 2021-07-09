@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "commander": "^8.0.0",
+    "graceful-logger": "^0.4.3",
     "inquirer": "^8.1.1"
   }
 }
