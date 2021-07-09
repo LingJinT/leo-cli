@@ -4,7 +4,7 @@
   "description": "cli",
   "main": "index.js",
   "scripts": {
-    "vp": "npm version patch && npm public"
+    "vp": "npm version patch && npm publish"
   },
   "bin": {
     "leo": "bin/leo.js"
